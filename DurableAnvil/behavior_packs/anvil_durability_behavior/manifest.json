@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A behavior pack that adds a custom unbreakable anvil recipe.",
+    "name": "Unbreakable Anvil Behavior Pack",
+    "uuid": "382aea52-2c56-44b3-b96d-8ae1e8ed494e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Unbreakable Anvil Recipe",
+      "type": "data",
+      "uuid": "ba41ae40-b3fc-450a-86ab-768d078ad3ce",
+      "version": [1, 0, 0]
+    }
+  ]
+}

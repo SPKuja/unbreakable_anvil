@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:unbreakable_anvil"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "BBB",
+      " B ",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_block"
+      },
+      "B": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "custom:unbreakable_anvil",
+      "count": 1
+    }
+  }
+}

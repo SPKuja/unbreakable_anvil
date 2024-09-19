@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "anvil_durability_resource",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "unbreakable_anvil": {
+      "textures": "textures/items/unbreakable_anvil"
+    }
+  }
+}

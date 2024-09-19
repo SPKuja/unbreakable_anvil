@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Resource pack for unbreakable anvil",
+    "name": "Unbreakable Anvil Resource Pack",
+    "uuid": "d4593982-27f5-4b0c-bb17-1e315f7f9c08",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Unbreakable Anvil Texture",
+      "type": "resources",
+      "uuid": "f661ec06-c39f-4e8f-a8ef-9361d046024e",
+      "version": [1, 0, 0]
+    }
+  ]
+}

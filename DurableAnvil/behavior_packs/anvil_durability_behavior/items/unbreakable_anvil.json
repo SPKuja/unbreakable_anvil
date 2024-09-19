@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom:unbreakable_anvil",
+      "category": "Items",
+      "is_experimental": false,
+      "is_glint": false
+    },
+    "components": {
+      "minecraft:icon": "unbreakable_anvil",
+      "minecraft:display_name": {
+        "value": "Unbreakable Anvil"
+      },
+      "minecraft:durability": {
+        "max_durability": 500000
+      },
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.anvil"
+      }
+    }
+  }
+}
